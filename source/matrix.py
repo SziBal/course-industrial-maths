@@ -21,7 +21,7 @@ class Matrix:
                     result_row.append(element1 + element2)
                 result.append(result_row)
         else:
-            print('A mátrixok nem kompatibilisek')
+            print('The matrices are not compatible')
             exit()
         return Matrix(result)
 
