@@ -1,4 +1,4 @@
-from matrix import Matrix
+from source.matrix import Matrix
 
 
 def main():
