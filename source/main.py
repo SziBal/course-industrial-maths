@@ -1,5 +1,6 @@
 from source.matrix import Matrix
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 def matrices_in_numpy():
@@ -35,6 +36,10 @@ def main():
     print(c)
     print('------------------- Matrices in NumPy ------------------------')
     matrices_in_numpy()
+
+    x = np.arange(-3, 3, 0.001)
+    plt.plot(x, np.sin(x))
+    plt.show()
 
 
 if __name__ == '__main__':
