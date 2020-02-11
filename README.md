@@ -1,2 +1,2 @@
-# course-industrial-maths
-Supplementary materials for courses related to Industrial Mathematics
+# Supplementary materials
+Use ```requirements.txt``` to create virtual environment, which can be used for Python IDEs and Jupyter notebook.

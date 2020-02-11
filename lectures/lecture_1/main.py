@@ -1,4 +1,4 @@
-from source.matrix import Matrix
+from lectures.lecture_1.matrix import Matrix
 import numpy as np
 import matplotlib.pyplot as plt
 
